@@ -1,0 +1,2 @@
+/usr/bin/ar qc libjason-voorhees.a CMakeFiles/jason-voorhees.dir/jason-voorhees.cpp.o
+/usr/bin/ranlib libjason-voorhees.a
